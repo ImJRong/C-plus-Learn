@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+
+# VSCode 本地配置
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
