@@ -4,6 +4,12 @@
 *.obj
 *.out
 
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
 # VSCode 本地配置
 .vscode/
 
