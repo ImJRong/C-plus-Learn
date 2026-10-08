@@ -1,3 +1,4 @@
+// 练习：指针遍历数组找最大值
 #include<iostream>
 using namespace std;
 

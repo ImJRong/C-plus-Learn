@@ -1,3 +1,4 @@
+// 练习：结构体数组找最高分学生（记录下标）
 #include<iostream>
 #include<string>
 using namespace std;

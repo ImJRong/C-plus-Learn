@@ -1,3 +1,4 @@
+// 练习：函数返回指针，通过指针直接改私有成员
 #include<iostream>
 using namespace std;
 class Counter{

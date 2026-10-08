@@ -1,3 +1,4 @@
+// 练习：vector 存自定义结构体
 #include <iostream>
 #include <string>
 #include <vector>

@@ -1,3 +1,4 @@
+// 练习：构造函数 —— 创建对象时自动赋值
 #include <iostream>
 #include <string>
 using namespace std;

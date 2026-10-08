@@ -4,8 +4,6 @@ rem 项目目录
 set PROJECT_DIR=D://C++Learning//Day2
 rem 生成的exe名
 set APP_NAME=app
-rem 运行参数(一般空)
-set RUN_ARGS=
 
 set CMAKE_EXE=C://Users//RONGG//AppData//Roaming//Python//Python313//Scripts//cmake.exe
 set MAKE_EXE=D://mingw64//bin//mingw32-make.exe

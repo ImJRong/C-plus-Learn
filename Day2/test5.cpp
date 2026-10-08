@@ -1,3 +1,4 @@
+// 练习：结构体指针 + 成员访问（->）
 #include<iostream>
 using namespace std;
 struct Point{
