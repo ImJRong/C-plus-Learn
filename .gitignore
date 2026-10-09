@@ -13,6 +13,9 @@ Makefile
 # VSCode 本地配置
 .vscode/
 
+# WorkBuddy 本地数据
+.workbuddy/
+
 # 系统文件
 .DS_Store
 Thumbs.db
