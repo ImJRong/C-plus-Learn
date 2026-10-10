@@ -1,3 +1,4 @@
+// Day4-6 实现栈：class + 指针 + new[]/delete[] + 异常
 #include<iostream>
 #include<vector>
 #include<stdexcept>

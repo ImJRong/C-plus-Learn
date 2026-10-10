@@ -1,3 +1,4 @@
+// Day4-2 IoU 交并比（NMS 去重的核心：算两个框的重叠程度）
 #include<iostream>
 using namespace std;
 

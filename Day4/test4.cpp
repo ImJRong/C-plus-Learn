@@ -1,4 +1,4 @@
-// 练习：异常处理 try / throw / catch
+// Day4-4 异常处理：try / throw / catch
 #include <iostream>
 #include <stdexcept>     // runtime_error 定义在这个头文件
 using namespace std;
